@@ -1,4 +1,6 @@
-# Teste
+# Usando Jest no React
+
+Projeto da Rocketseat para fazer testes dentro de aplicações React.
 
 ## Criando o projeto
 
